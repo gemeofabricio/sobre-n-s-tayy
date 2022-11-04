@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+.container{
+    background-color: black;
+    color: white;
+    height: 15vh;
+}
+.container .containertexto h1{
+    margin: 0;
+    font-size: 50px;
+    padding-left: 60px;
+    padding-top: 30px;
+    text-align: center;
+}
+.unidade{
+    background-color: rgb(192, 132, 248);
+    color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.unidadetexto p{
+    font: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.unidade img{
+    width: 300px;
+    height: 300px;
+}
+.titulo{
+    text-align: center;
+}
