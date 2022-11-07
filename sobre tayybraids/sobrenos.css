@@ -1,9 +1,10 @@
 body{
     margin: 0;
+    background-color: rgb(192, 132, 248)
 }
 .container{
-    background-color: black;
-    color: white;
+    background-color: rgb(192, 132, 248);
+    color: rgb(192, 132, 248);
     height: 15vh;
 }
 .container .containertexto h1{
@@ -32,4 +33,10 @@ body{
 }
 .titulo{
     text-align: center;
+}
+h1{
+    color: black;
+}
+.titulo{
+    background-color: rgb(192, 132, 248);
 }
