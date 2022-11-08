@@ -7,6 +7,8 @@ body{
     background-color: rgb(192, 132, 248);
     color: rgb(192, 132, 248);
     height: 15vh;
+    background-image: url(logo\ trança\ 2.jpg);
+    background-repeat: no-repeat;
 }
 .container .containertexto h1{
     margin: 0;
